@@ -1,4 +1,4 @@
-<h1>Fide E-Commerce</h1>
+<h1>Fidea E-Commerce</h1>
 <h2>Description Project</h2>
 <p> FIDEA is an ecommerce project that uses microservices architecture </p>
 <h2>Tech</h2>
