@@ -19,7 +19,7 @@
     <li><a href="https://github.com/Fidea-Ecommerce/fidea-mobile">Mobile App</a></li>
     <li><a href="https://github.com/Fidea-Ecommerce/fidea-discord">Discord App</a></li>
 </ul>
-<h2>Contributor</h2>
+<h2>Core Team</h2>
 <table>
 <tr>
 
